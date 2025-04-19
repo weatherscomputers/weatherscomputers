@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @weatherscomputers
-- 👀 I’m interested in ...learning to code iOS
-- 🌱 I’m currently learning ...iOS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning code, automating, AI modeling, open source, block-chain
+- 🌱 I’m currently learning ...creating my own API
 - 📫 How to reach me ...markweathers84@gmail.com
 
 <!---
